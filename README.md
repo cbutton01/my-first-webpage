@@ -2,7 +2,7 @@
 
 #### _small html file, March 13, 2018_
 
-#### By _**Cameron Button**_
+#### By _**Cameron Button, Jared Lutz**_
 
 ## Description
 
@@ -32,4 +32,4 @@ _This website was made with html with git and atom_
 
 *MIT license found in LICENSE.txt*
 
-Copyright (c) 2016 **_{Cameron Button}_**
+Copyright (c) 2016 **_{Cameron Button, Jared Lutz}_**
