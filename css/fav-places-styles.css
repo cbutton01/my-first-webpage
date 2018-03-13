@@ -1,0 +1,10 @@
+img{
+  height: 200px;
+  width: auto;
+  display: block;
+  margin: auto;
+}
+h1{
+  font-family: serif;
+  text-align: center;
+}
